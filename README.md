@@ -1,2 +1,2 @@
-# new-repos
-prototype
+git config --global user . email "murphyndembe237@gmail.com"
+
